@@ -44,5 +44,5 @@
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "https://contact-bank-backend.onrender.com"
 }
